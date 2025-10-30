@@ -3,7 +3,7 @@ package Aula1;
 import java.time.LocalDate;
 import java.util.Scanner;
 
-//Aula 2:
+//Aula 1:
 // Aprender como guardar e manipular informações no Java.
 public class MainAula1 {
     public static void main(String[] args) {
